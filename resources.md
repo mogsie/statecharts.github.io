@@ -128,7 +128,7 @@ DevanB has some [practical examples of statechart-based solutions with xstate](h
 
 [LXSC](https://github.com/Phrogz/LXSC), by Gavin Kistner, Lua XML StateChart interpreter - parses and executes SCXML state machines with a Lua data model.
 
-[µFSM](https://github.com/jonpe960/ufsm/), by Jonas Persson, UML Statechart library in C and XMI importer.
+[µFSM](https://github.com/jonpe960/ufsm/), by Jonas Persson, Statechart library and editor
 
 [Miros](https://aleph2c.github.io/miros/), statecharts in Python.
 
